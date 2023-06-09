@@ -1,0 +1,19 @@
+1. Functions--basic
+2. Control------------
+	Print and None;
+	Miscellaneous Python Features; 
+	Conditional Statement;
+	Iteration;
+	Return;
+	Designing Functions;
+3. Higher-Order Functions-------
+	Higher-Order Functions: General patterns with assignments and computational process；
+	Return a functions as Return Values: Locally Defined function；
+	One example;
+	Function Composition: compose two or more functions into one expression to achieve them
+        Function Currying: multiple-functions--->one single higher-function
+	Abstraction: The rule of name function and value -->easily understand
+
+
+
+				
