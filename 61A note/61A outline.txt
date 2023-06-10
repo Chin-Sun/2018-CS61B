@@ -12,7 +12,16 @@
 	One example;
 	Function Composition: compose two or more functions into one expression to achieve them
         Function Currying: multiple-functions--->one single higher-function
-	Abstraction: The rule of name function and value -->easily understand
+	Abstraction: The rule of name function and value -->easily understand;
+			f,g,h - Function
+			x,y,z - Real number
+			n,k,i - Integers
+**********************************************************************************
+4. Environment Diagram--------
+	Multiple Environments: how multiple functions work in one environments;
+	Environments for Higher-Order Functions: how it works
+        One example↑
+	
 
 
 
