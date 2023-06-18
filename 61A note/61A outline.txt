@@ -21,7 +21,17 @@
 	Multiple Environments: how multiple functions work in one environments;
 	Environments for Higher-Order Functions: how it works
         One example↑
+	Environments for Nested Definitions: how to draw an Environment Diagram
+	Local Names: local function without being nested in the parent of function (no def within def)
+	Lambda Expressions: square = lambda x: x*x        vs. def statements
+	Self Reference: more clear explaination about the environment diagram
+	Decorator: @higher_function
+5. Recursion------------------
+	Recursional Functions: defination
+	Recursion in Environment Diagrams：how it work in environment diagram
 	
+
+
 
 
 
