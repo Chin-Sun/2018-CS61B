@@ -29,6 +29,15 @@
 5. Recursion------------------
 	Recursional Functions: defination
 	Recursion in Environment Diagrams：how it work in environment diagram
+	Mutual Recursion: two functions use each other;  
+	Recursion and Iteration: how to convert one to another one;  
+	Order of Recursive calls: Without return stataement---> return value=None ---> return to the former frame to execute-->(f4-->f3-->f2-->f1-->global)； 
+put the base function first + make programmer easier to read for others;  
+	One example↑
+6. Tree Recursion----------
+	Tree Recursion: more than once to call this function within its body.
+	One example↑
+	Implementating Functions:
 	
 
 
