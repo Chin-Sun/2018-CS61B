@@ -38,6 +38,16 @@ put the base function first + make programmer easier to read for others;
 	Tree Recursion: more than once to call this function within its body.
 	One example↑
 	Implementating Functions:
+************************************************************************************  
+7. Sequence & Data Abstraction-----------  
+	Lists: digits=[1,2,4]----->digit[0]=1  
+	Containers: in; not in;   
+	For Sequence: for <name> in <expression>:  
+			  <suite>  
+	Ranges: range(starting_value, ending_value)---->length is ending_value-starting_value; element = starting_value ~ index[length - 1];  
+	List Compresions: [x+1 for x in range(2,n) if n%x==0];  
+	Strings: length; sequence; in& not in  
+	Data Abstraction: 
 	
 
 
