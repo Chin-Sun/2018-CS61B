@@ -47,7 +47,9 @@ put the base function first + make programmer easier to read for others;
 	Ranges: range(starting_value, ending_value)---->length is ending_value-starting_value; element = starting_value ~ index[length - 1];  
 	List Compresions: [x+1 for x in range(2,n) if n%x==0];  
 	Strings: length; sequence; in& not in  
-	Data Abstraction: 
+	Data Abstraction: ----rational numbers----rational(n,d)=n/d; numer(x)=n; denom(x)=d;  
+	Representing Rational Numbers: change functions;  
+	Abstraction Barriers: write your program in a modular way.
 	
 
 
