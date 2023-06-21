@@ -50,6 +50,12 @@ put the base function first + make programmer easier to read for others;
 	Data Abstraction: ----rational numbers----rational(n,d)=n/d; numer(x)=n; denom(x)=d;  
 	Representing Rational Numbers: change functions;  
 	Abstraction Barriers: write your program in a modular way.
+	Data Representations: data abstration by its behavior
+	Dictionaries: dict= {'X':2, 'Y':3 }; dict['X']
+	Lists: s.append(t); s.extend(t); a=s+[t]; b=s[1:4]; s[1:0]=t; t=s.pop(t); t.remove(5);  
+8. Functional Decomposition & Debugging------------  
+	Exceptions: 
+	
 	
 
 
