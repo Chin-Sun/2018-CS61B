@@ -54,7 +54,15 @@ put the base function first + make programmer easier to read for others;
 	Dictionaries: dict= {'X':2, 'Y':3 }; dict['X']
 	Lists: s.append(t); s.extend(t); a=s+[t]; b=s[1:4]; s[1:0]=t; t=s.pop(t); t.remove(5);  
 8. Functional Decomposition & Debugging------------  
-	Exceptions: 
+	Exceptions: one type of bug; can be handled by python itself;
+	Raising Exceptions: AssertionError----- python3 -0---__debug__; TypeError; NameErroe; KeyError; RunTimeError;  
+	Try Statements:   def f(x):
+				try:
+				    return g(x)
+				except NameError as e: # e是错误指令的提示
+				    print('Handling', e)
+	Example: Reduce-----结合了try statemen
+	
 	
 	
 
