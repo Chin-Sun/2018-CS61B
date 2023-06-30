@@ -61,7 +61,17 @@ put the base function first + make programmer easier to read for others;
 				    return g(x)
 				except NameError as e: # e是错误指令的提示
 				    print('Handling', e)
-	Example: Reduce-----结合了try statemen
+	Example: Reduce-----结合了try statement
+9. Trees
+10. Mutable Sequences：
+**********************************************************************************
+11. Mutable Functions:  
+	Non-local assignment:
+	non-local assignment example:  
+	Multiple mutable functions:  
+	One example↑
+（我需要训练自己的程序化思维，也就是看到代码后，脑子里可以environment diagram一样运行一步步得出代码的结果。这种思维可以促进你为某功能严谨地写出一条一条代码。）  
+
 	
 	
 	
