@@ -70,7 +70,16 @@ put the base function first + make programmer easier to read for others;
 	non-local assignment example:  
 	Multiple mutable functions:  
 	One example↑
-（我需要训练自己的程序化思维，也就是看到代码后，脑子里可以environment diagram一样运行一步步得出代码的结果。这种思维可以促进你为某功能严谨地写出一条一条代码。）  
+（我需要训练自己的程序化思维，也就是看到代码后，脑子里可以environment diagram一样运行一步步得出代码的结果。这种思维可以促进你为某功能严谨地写出一条一条代码。） 写代码的时候也可以使用https://pythontutor.com/visualize.html#mode=edit 这个网站去看程序一步步如何运行的，进而熟悉程序的运行顺序。
+12. Iterators& Generators
+	Iterators: iterators create a container for the list
+	Dictionary Iterator: iterator create a container for a dictionary's keys, values or items
+	For Statements: iterator can only output once under "for statements". But range can use multiple times.
+	Built-in Iterator Functions: lazy
+	Generator: yield multiple times instead of returning
+	Generators& Iterators: combined;
+13. Objects
+	
 
 	
 	
