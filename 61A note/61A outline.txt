@@ -78,7 +78,10 @@ put the base function first + make programmer easier to read for others;
 	Built-in Iterator Functions: lazy
 	Generator: yield multiple times instead of returning
 	Generators& Iterators: combined;
-13. Objects
+13. Objects  
+	Objects-Oriented Programm: objects & class
+	Class Statements: new instance for the same object Class class_name
+	Methods: def deposite(self. amount)
 	
 
 	
