@@ -94,6 +94,11 @@ put the base function first + make programmer easier to read for others;
 	Memorization: 加快运行时间
 	Exponentiation: linear time & logarithmic time
 	Tress& link ex
+16. Interfaces
+	String Representations: str(); eval(repr())
+	Polymorphic Functions: 
+几乎没看懂， 烦死啊啊啊啊啊啊----过一遍算了。因为我还得看61B
+17. 
 
 
 
