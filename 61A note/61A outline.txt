@@ -86,6 +86,15 @@ put the base function first + make programmer easier to read for others;
 	<expression>.<name>-------<class>.<attribute>
 	integer
 	multiple inheritance
+15. Linked Lists& Trees
+	Linked lists: class_link.rest.rest.first
+	@proprety; @attribute_name.settor
+	Tree Class: 讲解tree---没听懂
+	Measuring Efficiency:---测运行速度
+	Memorization: 加快运行时间
+	Exponentiation: linear time & logarithmic time
+	Tress& link ex
+
 
 
 	
