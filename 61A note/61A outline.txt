@@ -82,6 +82,12 @@ put the base function first + make programmer easier to read for others;
 	Objects-Oriented Programm: objects & class
 	Class Statements: new instance for the same object Class class_name
 	Methods: def deposite(self. amount)
+14. Inheritance
+	<expression>.<name>-------<class>.<attribute>
+	integer
+	multiple inheritance
+
+
 	
 
 	
