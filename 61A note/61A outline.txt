@@ -98,7 +98,16 @@ put the base function first + make programmer easier to read for others;
 	String Representations: str(); eval(repr())
 	Polymorphic Functions: 
 几乎没看懂， 烦死啊啊啊啊啊啊----过一遍算了。因为我还得看61B
-17. 
+17. Scheme
+	Scheme: new language which Python is based on
+	Special Forms: 
+	Scheme Interpreter:
+	Lambda Expressions: 
+	Lists: 
+	Symbolic Programming:
+	Example: Sierpinski's Triangle:
+	Programming Language:
+
 
 
 
