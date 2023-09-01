@@ -107,7 +107,17 @@ put the base function first + make programmer easier to read for others;
 	Symbolic Programming:
 	Example: Sierpinski's Triangle:
 	Programming Language:
-
+18. More Scheme
+	Dynamic Scope
+	Tail Recursion
+	Tail Calls
+	Map and Reduce
+	General Computing Machines
+19. Macros
+	Programs as Data
+	Macros
+	For Macros
+20. 
 
 
 
