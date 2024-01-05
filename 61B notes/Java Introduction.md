@@ -27,3 +27,15 @@ public class Printstrings{
 }
 }
 ```
+### Golden Rule of Equals
+There are 9 types of variables in Java  
+- 8 primitive types (byte, short, int, long, float, double, boolean, char)
+- The 9th type is references to Objects (an arrow). References may be null.
+
+In box-and-pointer notation, each variable is drawn as a labeled box and values are shown in the box.  
+- Addresses are represented by arrows to object instances.
+
+#### Given variables b and a:  
+b = a copies all the bits from a into b  
+#### Parameter Passing
+This is also called **pass by value**: Passing Parameters obeys the same rule: Simply **copy the bits** to the new scope.  
