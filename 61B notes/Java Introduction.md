@@ -41,9 +41,14 @@ b = a copies all the bits from a into b 　　
 #### Parameter Passing:  
 This is also called **pass by value**:  Passing Parameters obeys the same rule: Simply **copy the bits** to the new scope.  
 
+
 ----------------------
 #### What is Recursion?
 - base case: stop condition
 - recursion condition.
 
 https://www.youtube.com/watch?v=IJDJ0kBx2LM
+
+### Sentinel
+A special case is not always simple. Sometimes we can use sentinel to replace the special case, which can reduce the complexity of data structure. What you need to do is use one space O（1）. Same for reducing time.
+### Sllist vs. IntList
