@@ -1,8 +1,9 @@
 # Week 1 + Week 2
 **Efficient & Saving Space**
-**data structure能够教会我们如何优化慢的代码，还可以帮助我们修改bug。所以data structure不仅仅是while, for这些语句和数组类型，它是整个编程中最重要的核心内容**  
-**你要做的是学会它以后，能够熟练地去运用它，就像你学会了二次函数后，可以在数学中的多个领域去运用。**  
-**所以你对于data structure的掌握也要达到这个高度。通过leetcode题库里的每个题的思考，上数据结构的公开课等，坚持补上自己做题时的每一个盲点。**
+- **data structure能够教会我们如何优化慢的代码，还可以帮助我们修改bug。所以data structure不仅仅是while, for这些语句和数组类型，它是整个编程中最重要的核心内容**  
+- **你要做的是学会它以后，能够熟练地去运用它，就像你学会了二次函数后，可以在数学中的多个领域去运用。**  
+- **所以你对于data structure的掌握也要达到这个高度。通过leetcode题库里的每个题的思考，上数据结构的公开课等，坚持补上自己做题时的每一个盲点。**
+****
 1. {  } & ；用来分割  
 2. varaibles must be declared, such as int, string....  
 3. functions (methods) are declared as a part of class
