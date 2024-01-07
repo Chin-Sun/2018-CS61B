@@ -56,4 +56,23 @@ https://www.youtube.com/watch?v=IJDJ0kBx2LM
 ### Sentinel
 A special case is not always simple. Sometimes we can use sentinel to replace the special case, which can reduce the complexity of data structure. What you need to do is use one space O（1）. Same for reducing time.
 
-### Sllist vs. IntList
+### SLList vs. IntList
+使用single linked list去操作数据，使得数据结构不再naked。其实在IntList中操作的数据结构，就是naked
+## 一些优化数据结构的方法(for List)
+### DLList
+double linked list
+### Generic List
+int: Integer  
+double: Double  
+boolean: Boolean    
+string: String  
+char: Character  
+long: Long  
+```
+int-->lochNest(类似any type parameter)
+SLList s = new SLList(2) ----> SLList<string> s = new SLList("bone")
+```
+
+## Array
+class: W.size 调用class W的size
+array: A.(3) 第三位的内容
