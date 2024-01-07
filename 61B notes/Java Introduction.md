@@ -74,5 +74,6 @@ SLList s = new SLList(2) ----> SLList<string> s = new SLList("bone")
 ```
 
 ## Array
-class: W.size 调用class W的size
-array: A.(3) 第三位的内容
+class: W.size 调用class W的size  
+array: A.(3) 第三位的内容  
+In Java, every number in an array should have the same type(int/string/..), which is different in Python
