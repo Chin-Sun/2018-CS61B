@@ -1,8 +1,4 @@
 /** Project 0: NBody Simulation
- *
- *  src = "https://sp18.datastructur.es/materials/proj/proj0/proj0"
- *
- *  @author Zhenye Na 03/25/2018
  */
 
 public class Planet {
