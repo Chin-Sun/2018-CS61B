@@ -1,38 +1,30 @@
-/**  Project 1A: Circular ArrayDeque.
- *
- *
- * */
+/** Array based list.
+ *  @author Qian Sun
+ */
 import java.util.Random;
-
 public class ArrayDeque<PlaceholderType> {
-
-    /** Declare variables. */
-    private float usage;             // Usage factor
-    private int size;                // size of Array-Deque
-    private int nextFirst;           // First pointer
-    private int nextLast;            // Last pointer
-    private PlaceholderType[] Array; // Data Structure used in Array-Deque
-
-
-    /** Create an empty Array Deque. */
+    /* Declare invariables */
+    private PlaceholderType[] Array;
+    private int size;
+    private int nextLast;
+    private int nextFirst;
+    private float usage;
+    /** Creates an empty list. */
     public ArrayDeque() {
         Array = (PlaceholderType[]) new Object[8];
         size = 0;
         usage = 0;
 
-        // whether initialize nextFirst randomly or manually.
-        // nextFirst = getRandomNumberInRange(0, 7);
+//        nextFirst = getRandomNumberInRange(0,7);
         nextFirst = 2;
 
-        // make sure that initial nextLast is on the RHS of nextFirst
-        if (nextFirst == 7) {
-            nextLast = 0;
-        } else {
+        if(nextFirst == 7){
+            nextLast =0;
+        }else{
             nextLast = nextFirst + 1;
         }
+
     }
-
-
     /**  private helper function.
      *
      *   Get random integer in given range.
@@ -47,6 +39,7 @@ public class ArrayDeque<PlaceholderType> {
      *       random number (int): random integer in range(min, max + 1).
      *
      * */
+
     private static int getRandomNumberInRange(int min, int max) {
 
         if (min >= max) {
@@ -56,21 +49,13 @@ public class ArrayDeque<PlaceholderType> {
         Random r = new Random();
         return r.nextInt((max - min) + 1) + min;
     }
-
-
     /**  private helper function
      *
      *   Check usage of array, return true will halve the array.
      * */
-    private boolean checkUsageR() {
-
-//        System.out.println("usage factor: " + usage);
-        // compare ratio with 0.25
-        return (usage < 0.25 && (Array.length > 16));
+    private boolean checkUsageR(){
+        return ((usage<0.25) && (Array.length >16));
     }
-
-
-
     /**  resize an array.
      *
      *   1. For arrays of length 16 or more, usage factor should always be at least 25%
@@ -166,8 +151,10 @@ public class ArrayDeque<PlaceholderType> {
         }
 
     }
-
-
+    /**  private helper function.
+     *
+     *   move First pointer when adding element.
+     * */
     /**  private helper function.
      *
      *   move First pointer when adding element.
