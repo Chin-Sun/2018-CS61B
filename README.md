@@ -10,3 +10,9 @@ Next I plan to finish 61B course for 2 weeks.
 The repository serves as the database of storing 61B' course assignments finished by myself.
 
 
+[Course Website](https://sp18.datastructur.es/index.html)   
+[Open Data Structures (in Java)](http://opendatastructures.org/ods-java/ods-java-html.html)  
+[Gitbook CS 61B - Josh Hug](https://joshhug.gitbooks.io/hug61b/content/)  
+
+
+
