@@ -13,7 +13,9 @@ The repository serves as the database of storing 61B' course assignments finishe
 [Course Website](https://sp18.datastructur.es/index.html)   
 [Open Data Structures (in Java)](http://opendatastructures.org/ods-java/ods-java-html.html)  
 [Gitbook CS 61B - Josh Hug](https://joshhug.gitbooks.io/hug61b/content/)  
-[Code Visualization](https://pythontutor.com/visualize.html#mode=edit)
+
+
+[Code Visualization](https://pythontutor.com/visualize.html#mode=edit)  
 [Java Visualizer](https://cscircles.cemc.uwaterloo.ca/java_visualize/)
 
 
